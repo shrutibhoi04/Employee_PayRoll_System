@@ -34,3 +34,7 @@ Technologies
 - **Java (JDK 8+)**
 - **Terminal / Console-based UI**
 - No external libraries required
+
+Output
+![image](https://github.com/user-attachments/assets/3d4e41c9-986c-42bb-b342-ab435353042f)
+
